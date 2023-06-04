@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "id": "GKfrCbCN5f",
+      "title": "Qual é o nome do cão da família Griffin?",
+      "answers": ["Brian", "Stewie", "Meg", "Chris"],
+      "correct_answer": "Brian"
+    },
+    {
+      "id": "cQC0Y2Dmhu",
+      "title": "Qual é o nome do pai de Lois Griffin?",
+      "answers": [
+        "Carter Pewterschmidt",
+        "Peter Griffin",
+        "Glenn Quagmire",
+        "Cleveland Brown"
+      ],
+      "correct_answer": "Carter Pewterschmidt"
+    },
+    {
+      "id": "DFfAzImRk6",
+      "title": "Qual é o nome da cidade onde vive a família Griffin?",
+      "answers": ["Quahog", "Springfield", "Simpsons", "Griffinville"],
+      "correct_answer": "Quahog"
+    },
+    {
+      "id": "RY9qUoigEA",
+      "title": "Qual é o nome do bar onde vão Peter, Joe, Quagmire e Cleveland?",
+      "answers": [
+        "The Drunken Clam",
+        "The Griffin Tavern",
+        "The Quahog Pub",
+        "Patriot House"
+      ],
+      "correct_answer": "The Drunken Clam"
+    },
+    {
+      "id": "qsLWiq531a",
+      "title": "Qual é o nome do ursinho de pelúcia de Stewie Griffin?",
+      "answers": ["Rupert", "Winston", "Barney", "Wally"],
+      "correct_answer": "Rupert"
+    },
+    {
+      "id": "WbxoPIWfyk",
+      "title": "Qual é o nome da galinha que é nêmesis de Peter Griffin?",
+      "answers": [
+        "Lois Griffin",
+        "Meg Griffin",
+        "Stewie Griffin",
+        "Ernie The Giant Chicken"
+      ],
+      "correct_answer": "Ernie The Giant Chicken"
+    },
+    {
+      "id": "MUfeMhv3n8",
+      "title": "Qual é o nome do âncora do canal 5?",
+      "answers": [
+        "Tom Tucker",
+        "Diane Simmons",
+        "Peter Griffin",
+        "Stewie Griffin"
+      ],
+      "correct_answer": "Tom Tucker"
+    },
+    {
+      "id": "c2Ocp9ZvN2",
+      "title": "Qual é o nome do parceiro policial de Joe Swanson?",
+      "answers": [
+        "Brian Griffin",
+        "Stewie Griffin",
+        "Glenn Quagmire",
+        "Akira Yoshida"
+      ],
+      "correct_answer": "Akira Yoshida"
+    },
+    {
+      "id": "ypcGVPrhsg",
+      "title": "Qual é o nome do shopping que a família Griffin frequenta com frequência?",
+      "answers": [
+        "The Quahog Mall",
+        "The Springfield Mall",
+        "The Simpsons Mall",
+        "The Griffin Mall"
+      ],
+      "correct_answer": "The Quahog Mall"
+    },
+    {
+      "id": "gC3jrDwEYk",
+      "title": "Quem Stewie quer matar?",
+      "answers": ["Meg", "Chris", "Peter", "Lois"],
+      "correct_answer": "Lois"
+    },
+    {
+      "id": "csOEYs6zXn",
+      "title": "Onde nasceu Peter?",
+      "answers": ["Mexico", "Canada", "United States", "Russia"],
+      "correct_answer": "Mexico"
+    },
+    {
+      "id": "cyqZYE8DIK",
+      "title": "Qual personagem de Family Guy é obcecado pela dominação do mundo?",
+      "answers": ["Meg", "Chris", "Stewie", "Brian"],
+      "correct_answer": "Stewie"
+    },
+    {
+      "id": "CfQnf3lH56",
+      "title": "Quem é o prefeito de Quahog?",
+      "answers": ["Bill Bixby", "Adam West", "Lynda Carter", "Burt Ward"],
+      "correct_answer": "Adam West"
+    },
+    {
+      "id": "e3dDjEEWl0",
+      "title": "Quem fundou a cidade de Quahog?",
+      "answers": ["Griffin Peterson", "Adam West", "Miles Musket", "A Frog"],
+      "correct_answer": "Griffin Peterson"
+    },
+    {
+      "id": "wKuUTrvMrF",
+      "title": "O que Peter mudou no nome de Meg para em sua certidão de nascimento?",
+      "answers": ["Megillah", "Megatron", "Megolavina", "Mega Millions"],
+      "correct_answer": "Megatron"
+    },
+    {
+      "id": "SlYDds3o7F",
+      "title": "Quem queimou o molusco bêbado no chão?",
+      "answers": ["Peter", "Brian", "God", "Stewie"],
+      "correct_answer": "Peter"
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "peter griffin",
+      "slug": "peter-griffin",
+      "skills": [
+        "Força sobre-humana",
+        "Velocidade sobre-humana",
+        "Agilidade sobre-humana",
+        "Durabilidade sobre-humana",
+        "Resistência sobre-humana",
+        "Resistência sobre-humana",
+        "Manipulação",
+        "Regeneração",
+        "Manipulação da flatulência",
+        "Habilidades/proezas de combate",
+        "Aura de gravidade",
+        "Marcação",
+        "Física dos desenhos animados",
+        "Carisma",
+        "Biocinese",
+        "Tolerância à substância",
+        "Quebra de parede",
+        "Força da Broadway",
+        "Teletransporte",
+        "Cortes",
+        "Penetração da mente"
+      ],
+      "description": "Apresentando Peter Griffin, o patriarca adorável e hilariantemente sem noção da família Griffin da sitcom animada Family Guy. Peter é um espetáculo ambulante de caos cômico, conhecido por suas travessuras não convencionais e falta de filtro. Com um físico que desafia a física e as tendências da moda, ele ostenta uma barriga de cerveja proeminente, uma sombra perpétua das cinco horas e um sorriso que esbanja travessuras. A roupa de marca registrada de Peter consiste em uma camisa branca, calça verde e um senso de humor que oscila no limite da sanidade.",
+      "age": "aproximadamente na casa dos 40 anos",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683833864/fcc-family-guys/peter/peter_qniww9.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683834164/fcc-family-guys/peter/peter-griffin-facts-730x456_pesfxs.png",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683834192/fcc-family-guys/peter/peter-griffin_x3zeka.png"
+      ],
+      "occupations": [
+        "Inspector de Segurança (anteriormente)",
+        "Trabalhador da Cervejaria",
+        "Vários Outros Empregos"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "stewie griffin",
+      "slug": "stewie-griffin",
+      "skills": [
+        "Intelecto de nível genial",
+        "Capacidades físicas excepcionais",
+        "Manipulação",
+        "Viagem no tempo",
+        "Armas de fogo",
+        "Artes marciais",
+        "Agilidade",
+        "Astúcia",
+        "Física dos desenhos animados",
+        "Combate corpo a corpo"
+      ],
+      "description": "Stewie Griffin é um bebê altamente inteligente e diabolicamente inteligente com sotaque britânico. Apesar de sua pouca idade, Stewie possui um senso de humor sombrio e distorcido, muitas vezes tramando esquemas elaborados para eliminar sua mãe, Lois, ou para conquistar o mundo.",
+      "age": "1 year",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683835740/fcc-family-guys/stewie/stewie_ligibl.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683835731/fcc-family-guys/stewie/stewie-family-guy-fox-1085482_qxxhmu.jpg",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683835733/fcc-family-guys/stewie/stewie-griffin-header_sbmpu7.avif"
+      ],
+      "occupations": ["Cientista Inventor"]
+    },
+    {
+      "id": 3,
+      "name": "lois griffin",
+      "slug": "lois-griffin",
+      "description": "Lois Griffin é a matriarca da família Griffin. Ela é uma esposa amorosa e carinhosa com seu esposo Peter Griffin e uma mãe dedicada a seus filhos, Meg, Chris e Stewie. Lois muitas vezes se vê equilibrando as travessuras caóticas de sua família enquanto tenta manter um senso de ordem em suas vidas.",
+      "age": "Late 30s",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683839731/fcc-family-guys/lois/lois_rwaiti.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683839726/fcc-family-guys/lois/SEI_138632406-3458_dcwzu3.jpg",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683839677/fcc-family-guys/lois/468852588_family-guy-1_1280_720_mxq2su.webp"
+      ],
+      "occupations": [
+        "Dona de casa",
+        "Instrutora de Piano",
+        "Jornalista",
+        "Boxeadora",
+        "Trabalhadora do varejo"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "meg griffin",
+      "slug": "meg-griffin",
+      "description": "Meg Griffin é a filha mais velha da família Griffin. Quando adolescente, Meg muitas vezes se vê alvo de ridicularização e maus-tratos, tanto na escola quanto dentro de sua própria família. Apesar dos desafios constantes que enfrenta, Meg mantém um espírito resiliente e se esforça para encontrar seu lugar no mundo.",
+      "age": "16 years",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683839583/fcc-family-guys/meg/meg_tfdwiq.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683839932/fcc-family-guys/meg/images_ycikcx.png",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683840043/fcc-family-guys/meg/LA7PMMm9pkPM46TvZeB7Y8-1200-80_dyrdfr.jpg"
+      ],
+      "occupations": ["Estudante do ensino médio"]
+    },
+    {
+      "id": 5,
+      "name": "joe swanson",
+      "slug": "joe-swanson",
+      "description": "Apresentando Joe Swanson, o resiliente policial cadeirante da sitcom animada Family Guy. Joe é um personagem que desafia as expectativas e mostra o triunfo do espírito humano. Apesar de enfrentar os desafios de ficar paralisado da cintura para baixo, a força de vontade indomável e a determinação inabalável de Joe brilham em todos os aspectos de sua vida. Com sua inteligência rápida e senso de humor aguçado, Joe prova que ser um herói não é sobre habilidades físicas, mas sobre a força do caráter.",
+      "age": "Late 40s",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683893909/fcc-family-guys/joe/joe_hpswnc.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683893882/fcc-family-guys/joe/Joe_Swanson_soundboard_g9qhys.png",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683893887/fcc-family-guys/joe/joe-swanson-from-family-guy_ovw9dh.jpg"
+      ],
+      "occupations": ["Policial", "Pai", "Marido"]
+    },
+    {
+      "id": 6,
+      "name": "bonnie swanson",
+      "slug": "bonnie-swanson",
+      "description": "Apresentando Bonnie Swanson, uma personagem amada da sitcom animada Family Guy. Bonnie traz um toque de calor e resiliência para a vibrante comunidade de Quahog. Como uma esposa dedicada, mãe carinhosa e amiga leal, a presença de Bonnie adiciona profundidade e coração ao elenco da série. Sua determinação inabalável e apoio inabalável a seus entes queridos a tornam parte integrante do tecido da comunidade, provando que a força vem de muitas formas.",
+      "age": "Late 30s",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683894221/fcc-family-guys/bonnie/bonnie_egjud7.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683894216/fcc-family-guys/bonnie/MV5BNjk1MGVhZDctMWYyZS00ZTQzLTk1MTEtYzAzOWVjZWQ1MWIwXkEyXkFqcGdeQXVyMjYwNDA2MDE_._V1__q4bhdj.jpg",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683894166/fcc-family-guys/bonnie/dd8sdi6-60e303f1-9871-4642-a0b0-192353edbf21_hcsih0.png"
+      ],
+      "occupations": ["Mãe que fica em casa", "Cônjuge solidária"]
+    },
+    {
+      "id": 7,
+      "name": "glenn quagmire",
+      "slug": "glenn-quagmire",
+      "skills": [
+        "Fluidos corporais contaminados",
+        "Habilidades de combate limitadas",
+        "Mestre da sedução",
+        "Carisma reforçado",
+        "Piloto altamente qualificado",
+        "Altíssima flexibilidade",
+        "Manipulação"
+      ],
+      "description": "Glenn Quagmire, muitas vezes referido apenas como 'Quagmire', é o vizinho excêntrico e descontroladamente promíscuo de Peter. Conhecido por sua voz distinta e bordão 'Giggity giggity goo', Quagmire está sempre à espreita para sua próxima conquista romântica e é famoso por seu comportamento ultrajante e muitas vezes inadequado.",
+      "age": "Late 40s",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683894304/fcc-family-guys/quagmire/quaqmire_javsub.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683894743/fcc-family-guys/quagmire/k1h6a4qz-1920_bjbld4.jpg",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683894897/fcc-family-guys/quagmire/qVoMBBzZMtiN5mAe8weLHG_lh9utx.jpg"
+      ],
+      "occupations": ["commercial airline pilot"]
+    },
+    {
+      "id": 8,
+      "name": "brian griffin",
+      "slug": "brian-griffin",
+      "skills": [
+        "Alta inteligência",
+        "Atleta superior",
+        "Marcação",
+        "Uso de armamento",
+        "Especialista em estrategias",
+        "Combate corpo a corpo",
+        "Multilinguismo",
+        "Tiroteio afiado",
+        "Redação",
+        "Cheiro melhorado",
+        "Audição melhorada",
+        "Instintos de rastreamento",
+        "Conversa fiada",
+        "Manipulação"
+      ],
+      "description": "Brian Griffin é o cão antropomórfico de estimação da família Griffin e a voz da razão em meio ao caos. Ele é conhecido por suas atividades intelectuais, seu amor por martinis e sua sagacidade. Brian muitas vezes serve como bússola moral do grupo e se envolve em várias aventuras e desventuras ao lado da família.",
+      "age": "7 years (in dog years)",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683835355/fcc-family-guys/brian/brian_p9ewsd.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683835426/fcc-family-guys/brian/best-brian-griffin-quotes_hl7ncy.jpg",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683835430/fcc-family-guys/brian/l-intro-1669128726_mtvlll.jpg"
+      ],
+      "occupations": ["Escritor"]
+    },
+    {
+      "id": 9,
+      "name": "chris griffin",
+      "slug": "chris-griffin",
+      "description": "Chris Griffin é o filho adolescente adorável, mas obscuro, de Peter e Lois Griffin. Chris muitas vezes se vê envolvido involuntariamente em situações absurdas, tornando-se uma fonte constante de momentos cômicos na série. Apesar de sua falta de inteligência, Chris tem um coração de ouro e possui uma inocência única que o encanta com aqueles ao seu redor.",
+      "age": "14 years",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683895493/fcc-family-guys/chris/chris_qzisgb.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683895641/fcc-family-guys/chris/9f72e811-1ec5-43b5-ba0b-b7488fce79a5_screenshot_z9hisi.jpg",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1684095660/fcc-family-guys/chris/Chris-Griffin.Family-Guy_hvzdxd.webp"
+      ],
+      "occupations": [
+        "Estudante do ensino médio",
+        "Ex entregador de jornais",
+        "Supervisor dos alunos do Quahog Mini-Mart Middle School"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "adam west",
+      "slug": "adam-west",
+      "description": "Adam West é uma versão fictícia do falecido ator, servindo como o excêntrico e peculiar prefeito de Quahog. Conhecido por seu comportamento bizarro e sem sentido, Adam West adiciona um toque de hilaridade à série com suas palhaçadas ultrajantes.",
+      "age": "Deceased",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683895724/fcc-family-guys/adam/adam_eghkgo.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683895832/fcc-family-guys/adam/3261321-screen_shot_2017-07-18_at_9.07.30_am_m1e56b.png",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683895830/fcc-family-guys/adam/QzWH4xks3ughYw9rZhprAE_ipcnof.png"
+      ],
+      "occupations": ["Prefeito"]
+    },
+    {
+      "id": 11,
+      "name": "cleveland brown",
+      "slug": "cleveland-brown",
+      "description": "Cleveland Brown é um amigo gentil e de bom coração de Peter Griffin. Conhecido por sua voz distinta e comportamento calmo, Cleveland é muitas vezes a voz da razão entre seu grupo de amigos. Depois de deixar Quahog, ele se mudou para Stoolbend e estrelou seu próprio spin-off, 'The Cleveland Show'.",
+      "age": "Late 40s",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683895954/fcc-family-guys/clevland/clevland_hix2eb.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683896067/fcc-family-guys/clevland/007690_1268x713_639191_053_u0jmge.jpg",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683896059/fcc-family-guys/clevland/Cleveland_aa3sa3.jpg"
+      ],
+      "occupations": ["Dono de Delicatessen", "Ex-Cabo Guy"]
+    },
+    {
+      "id": 12,
+      "name": "carter pewterschmidt",
+      "slug": "carter-pewterschmidt",
+      "skills": [
+        "Riqueza",
+        "Recursos",
+        "Inteligência",
+        "Engano",
+        "Carisma",
+        "Intimidação"
+      ],
+      "description": "Carter Pewterschmidt é o pai rico e controlador de Lois Griffin. Ele é o CEO da Pewterschmidt Industries e é conhecido por sua arrogância e crenças conservadoras. Apesar de seu exterior frio, Carter ocasionalmente mostra momentos de vulnerabilidade e até mesmo laços com Peter em raras ocasiões.",
+      "age": "Late 70s",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683896233/fcc-family-guys/carter/carter_ca1cex.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683896248/fcc-family-guys/carter/maxresdefault_uh6ov6.jpg",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683896249/fcc-family-guys/carter/ea95d4ac245a9a2fca1003439e5831698a456fb3_00_wa7fz0.jpg"
+      ],
+      "occupations": ["CEO das Industrias Pewterschmidt"]
+    },
+    {
+      "id": 13,
+      "name": "dr. elmer hartman",
+      "slug": "dr-elmer-hartman",
+      "description": "Dr. Elmer Hartman é o médico incompetente e muitas vezes sem noção da família Griffin. Apesar de sua falta de experiência médica, ele está sempre pronto para oferecer seus conselhos e tratamentos questionáveis. O personagem do Dr. Hartman fornece alívio cômico com suas práticas médicas ultrajantes e equivocadas.",
+      "age": "Late 40s",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683896780/fcc-family-guys/doctor/doctor_o1igzb.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1684095807/fcc-family-guys/doctor/7ba7d4d61c375ce681738c3f34c91fd92c2d139d_00_o1nxwh.jpg",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683896809/fcc-family-guys/doctor/oqggjnjx85y61_dcfftq.jpg"
+      ],
+      "occupations": ["Médico"]
+    },
+    {
+      "id": 14,
+      "name": "ernie the giant chicken",
+      "slug": "ernie-the-giant-chicken",
+      "skills": [
+        "Força sobre-humana",
+        "Durabilidade sobre-humana",
+        "Velocidade sobre-humana",
+        "Adrenalina",
+        "Combate corpo a corpo",
+        "Física dos desenhos animados",
+        "Regeneração",
+        "Imortalidade"
+      ],
+      "description": "Ernie The Giant Chicken é um antagonista recorrente em Family Guy, conhecido por sua intensa rivalidade com Peter Griffin. Seus confrontos muitas vezes se transformam em lutas épicas e absurdas que se estendem por vários episódios. Ernie é um adversário formidável, sempre buscando vingança contra Peter por um desentendimento há muito esquecido.",
+      "age": "",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683896314/fcc-family-guys/chicken/chicken_bt2akm.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683896683/fcc-family-guys/chicken/images_qwigpy.jpg",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683896686/fcc-family-guys/chicken/maxresdefault_1_zyqv4m.jpg"
+      ],
+      "occupations": ["Rival de Peter Griffin"]
+    },
+    {
+      "id": 15,
+      "name": "tom tucker",
+      "slug": "tom-tucker",
+      "description": "Tom Tucker é o carismático e suave âncora de notícias do Quahog 5 News. Ele é conhecido por seu estilo de reportagem sensacionalista e sua personalidade de paquera. Tom leva seu papel como âncora de notícias muito a sério, mesmo que isso signifique sacrificar a integridade jornalística pela audiência.",
+      "age": "40s",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683897089/fcc-family-guys/tom/tom_rb8q76.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683897083/fcc-family-guys/tom/MV5BZDg4YWYwN2QtNDZlZi00MjI2LTk5M2MtNzliMjliNjc2MWI0XkEyXkFqcGdeQXVyMjYwNDA2MDE_._V1__b4axte.jpg",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683897014/fcc-family-guys/tom/Screenshot_2023-05-12_173945_xvogma.png"
+      ],
+      "occupations": ["Âncora de Notícias"]
+    },
+    {
+      "id": 16,
+      "name": "herbert",
+      "slug": "herbert",
+      "skills": [
+        "Carisma",
+        "Velocidade anormal",
+        "Manipulação",
+        "combate corpo a corpo",
+        "Imortalidade"
+      ],
+      "description": "Herbert é um vizinho idoso da família Griffin, muitas vezes visto à espreita pelo bairro. Ele tem uma paixão peculiar por meninos, particularmente por Chris Griffin, e frequentemente tenta se envolver em atividades inadequadas com ele. O personagem de Herbert adiciona um toque de humor negro e desconforto à série.",
+      "age": "70s",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683899070/fcc-family-guys/herbert/herbert_d5xzmp.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683899181/fcc-family-guys/herbert/MV5BYjY2ZjU4MWQtNWM0ZC00NTQxLWE1ZGMtYTAxZmQxZGNjNTEzXkEyXkFqcGdeQXVyNjMxNzQ2NTQ_._V1__d3z8fb.jpg",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683899135/fcc-family-guys/herbert/maxresdefault_mhitnq.jpg"
+      ],
+      "occupations": ["Veterano aposentado do Exército dos EUA"]
+    }
+  ]
+}
